@@ -9,7 +9,7 @@ Use AI to translate code from one language to another.
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/mckaywrigley/ai-code-translator.git
+git clone https://github.com/helkiran/ai-code-translator.git
 ```
 
 **2. Install Dependencies**
@@ -26,4 +26,6 @@ npm run dev
 
 ## Contact
 
-If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/mckaywrigley).
+If you have any questions, feel free to reach out to me.. 
+
+original code by [Twitter](https://twitter.com/mckaywrigley)
