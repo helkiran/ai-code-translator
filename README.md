@@ -23,9 +23,3 @@ npm i
 ```bash
 npm run dev
 ```
-
-## Contact
-
-If you have any questions, feel free to reach out to me.. 
-
-original code by [Twitter](https://twitter.com/mckaywrigley)
